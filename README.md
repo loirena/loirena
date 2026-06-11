@@ -7,11 +7,11 @@ Sou pernambucana e estudante de Análise e Desenvolvimento de Sistemas pelo Sena
 Atualmente, atuo na área de tecnologia e sigo construindo minha trajetória como desenvolvedora, com interesse em desenvolvimento full stack, arquitetura de software e boas práticas de engenharia. Neste perfil, compartilho projetos, estudos e experimentos que fazem parte da minha jornada de aprendizado contínuo.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/watch?v=SS2pNp983no">
         <img 
             alt="youtube video" 
             title="Conheça minha história" 
-            src="https://www.youtube.com/watch?v=SS2pNp983no"
+            src="https://custom-icon-badges.demolab.com/badge/Entrevista%20na%20DIO-FF0000?logo=youtube-play&logoColor=white&style=for-the-badge"
         />
     </a>
     <a href="https://github.com/loirena?tab=repositories&sort=stargazers">
