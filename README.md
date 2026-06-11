@@ -11,7 +11,7 @@ Atualmente, atuo na área de tecnologia e sigo construindo minha trajetória com
         <img 
             alt="youtube video" 
             title="Conheça minha história" 
-            src="https://custom-icon-badges.demolab.com/badge/Entrevista%20na%20DIO-FF0000?logo=youtube-play&logoColor=white&style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/badge/%20minha%20historia-FF0000?logo=youtube-play&logoColor=white&style=for-the-badge"
         />
     </a>
     <a href="https://github.com/loirena?tab=repositories&sort=stargazers">
@@ -22,10 +22,10 @@ Atualmente, atuo na área de tecnologia e sigo construindo minha trajetória com
         />
     </a>
     <a href="https://www.linkedin.com/in/loirena/">
-        <img 
-            alt="Linkedin" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedin/loirena?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        <img
+            alt="LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Lorena%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
